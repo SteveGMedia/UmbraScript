@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbraScript", "UmbraScript\UmbraScript.csproj", "{43FBD6D7-7F63-42D3-AAD0-1E75B55F7B68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43FBD6D7-7F63-42D3-AAD0-1E75B55F7B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FBD6D7-7F63-42D3-AAD0-1E75B55F7B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43FBD6D7-7F63-42D3-AAD0-1E75B55F7B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FBD6D7-7F63-42D3-AAD0-1E75B55F7B68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {239C1D68-151E-4D0F-8E12-6A441C0A8A41}
+	EndGlobalSection
+EndGlobal
